@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// JA: This was an exercise with the char type
 public class lab2num4{
 	public static void main(String[] args) {
 		int number1;

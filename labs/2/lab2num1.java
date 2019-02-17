@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// JA: You had to print all the different situations with a false or true result
 public class lab2num1{
 	public static void main(String[] args) {
 		int number1;
