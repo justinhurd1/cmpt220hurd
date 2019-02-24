@@ -6,7 +6,7 @@ public class Lab3num2 {
 		int count = 0;
 
 		for (int i = 100; i <= 500; i++) {
-			if (i % 5 == 0 && i % 7 == 0) {
+			if (i % 5 == 0 ^ i % 7 == 0) { // JA
 				count++;
 				
 				if (count % numPerline == 0) 

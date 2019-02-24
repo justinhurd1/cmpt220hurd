@@ -18,7 +18,7 @@ public class Lab3num1{
 	            	 counter++;
 	             }
 	        sum = sum + i;
-	        average = sum/counter;
+	        average = sum/counter; // JA: This is an integer division
 	        counter = counter;
 	        i = input.nextInt();
 	        
