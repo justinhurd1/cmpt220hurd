@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Lab4num7{
 	 public static void main (String[] args)  { 
-		 Scanner input = new Scanner(System.in);
+		 Scanner input = new Scanner(System.in); // JA: Where are you reading the numbers?
 		 	int array[] = new int[100];
 	     	int n = array.length; 
 	     	
