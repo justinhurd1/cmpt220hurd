@@ -5,7 +5,7 @@ public class Lab5num6{
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter the array: ");
-		
+		// JA: You forgot to call it
 	}
 	public static double averageRow(double array[][], int column) {
 

@@ -18,7 +18,7 @@ public class Lab5num4{
 			y[i] = input.nextInt();
 		}
 
-			if (equal(x, y)){
+			if (equal(x, y)){ // JA: They could be in different order
 			
 			System.out.println("Two lists are identical");
 			} else {
